@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad2d1ee9-8c12-45d0-889b-7d6cf48824bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="zhangsan-test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\software\maven-temp" />
+        <option name="userSettingsFile" value="E:\software\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xXhkk9YTNuy6rDvDpqt7jWOLZ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\leaningCode_2\mybatis-plus-generate\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GenerateApplicationTests.generateMybatisPlusTest">
+    <configuration name="GenerateApplicationTests.generateMybatisPlusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="generate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hong.generate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hong.generate" />
+      <option name="MAIN_CLASS_NAME" value="com.hong.generate.GenerateApplicationTests" />
+      <option name="METHOD_NAME" value="generateMybatisPlusTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="generate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hong.generate.GenerateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GenerateApplicationTests.generateMybatisPlusTest" />
+        <item itemvalue="JUnit.GenerateApplicationTests.generateMybatisPlusTest" />
+        <item itemvalue="JUnit.GenerateApplicationTests.generateMybatisPlusTest" />
+        <item itemvalue="JUnit.GenerateApplicationTests.generateMybatisPlusTest" />
+        <item itemvalue="JUnit.GenerateApplicationTests.generateMybatisPlusTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad2d1ee9-8c12-45d0-889b-7d6cf48824bc" name="Default Changelist" comment="" />
+      <created>1630507488201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630507488201</updated>
+      <workItem from="1630507489397" duration="2808000" />
+      <workItem from="1630544089606" duration="2653000" />
+      <workItem from="1630551104768" duration="3000" />
+      <workItem from="1630551197252" duration="4525000" />
+      <workItem from="1630560961262" duration="2393000" />
+      <workItem from="1630564648674" duration="66000" />
+      <workItem from="1630572022558" duration="5786000" />
+      <workItem from="1630588553065" duration="253000" />
+      <workItem from="1630589527003" duration="965000" />
+      <workItem from="1630630321499" duration="123000" />
+      <workItem from="1630630497240" duration="539000" />
+      <workItem from="1630631293141" duration="1529000" />
+      <workItem from="1630634149417" duration="315000" />
+      <workItem from="1630838860907" duration="38000" />
+      <workItem from="1630887337324" duration="1284000" />
+      <workItem from="1630895046724" duration="1731000" />
+      <workItem from="1630897036786" duration="9039000" />
+      <workItem from="1630931982551" duration="597000" />
+      <workItem from="1631016552641" duration="598000" />
+      <workItem from="1631021735566" duration="76000" />
+      <workItem from="1632279557530" duration="158000" />
+      <workItem from="1634539402465" duration="119000" />
+      <workItem from="1634539531636" duration="33000" />
+      <workItem from="1634539596916" duration="106000" />
+    </task>
+    <task id="LOCAL-00001" summary="老师提交---&gt;测试生成新分支">
+      <created>1630572785978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630572785978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="老师提交---&gt;测试新分支与旧分支不同V2.0">
+      <created>1630572890576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630572890576</updated>
+    </task>
+    <task id="LOCAL-00003" summary="老师提交---&gt;测试新分支与旧分支不同V5.0">
+      <created>1630887642184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630887642184</updated>
+    </task>
+    <task id="LOCAL-00004" summary="老师提交---&gt;优化代码">
+      <created>1631021795702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631021795702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="老师提交---&gt;测试生成新分支" />
+    <MESSAGE value="老师提交---&gt;测试新分支与旧分支不同V2.0" />
+    <MESSAGE value="老师提交---&gt;测试新分支与旧分支不同V5.0" />
+    <MESSAGE value="老师提交---&gt;优化代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="老师提交---&gt;优化代码" />
+  </component>
+</project>
